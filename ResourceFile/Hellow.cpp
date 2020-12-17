@@ -2,5 +2,6 @@
 
 void HellowWorld::PrinHellow()
 {
-	printf("Hellow world\r\n");
+	printf("Hellow world branch1\r\n");
+	return;
 }
